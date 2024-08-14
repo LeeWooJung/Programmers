@@ -13,6 +13,7 @@ def matrixSquare(matrix, exponent, tot, mod):
     result = [[1 if i == j else 0 for j in range(tot)] for i in range(tot)]
     base = matrix
 
+    # Divide and Conquer
     # O(log Exponent) = O(log k)
     while exponent > 0:
         if exponent % 2 == 1:
