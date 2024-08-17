@@ -11,3 +11,11 @@
 ## Dynamic Programming
 
 :ballot_box_with_check: [N으로 표현](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)
+
+:ballot_box_with_check: [정수 삼각형](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)
+
+:ballot_box_with_check: [등굣길](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/%EB%93%B1%EA%B5%A3%EA%B8%B8)
+
+:ballot_box_with_check: [사칙연산](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+
+:ballot_box_with_check: [도둑질](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/%EB%8F%84%EB%91%91%EC%A7%88)
