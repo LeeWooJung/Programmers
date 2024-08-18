@@ -19,3 +19,7 @@
 :ballot_box_with_check: [사칙연산](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
 
 :ballot_box_with_check: [도둑질](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/%EB%8F%84%EB%91%91%EC%A7%88)
+
+## Binary Search
+
+:ballot_box_with_check: [입국심사](https://github.com/LeeWooJung/Programmers/tree/main/Python/Binary%20Search/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
