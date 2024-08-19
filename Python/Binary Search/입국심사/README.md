@@ -5,4 +5,4 @@
 ## Algorithm / DataStructure
 
 * solution.py: Binary Search
-* solution2.py: Bit 연산자 이용
+* solution2.py: Bit 이용
