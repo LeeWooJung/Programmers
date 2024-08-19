@@ -45,6 +45,13 @@ times = [7, 10], n = 6
     ==> left = mid + 1
 - left < right 일 때까지 반복.
 - answer = left 
+
+* 시간 복잡도
+
+- 탐색 범위 : max(times) * n ==> O(log(n*max(times)))
+- 탐색을 진행할 때마다, 각 심사관이 심사할 수 있는 사람의 수를 확인 ==> O(len(times))
+
+==> O(m * log(n*max(times)))
 """
 
 def checkNumber(n, times, mid):
