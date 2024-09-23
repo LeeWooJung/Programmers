@@ -25,3 +25,5 @@
 ## Binary Search
 
 :ballot_box_with_check: [입국심사](https://github.com/LeeWooJung/Programmers/tree/main/Python/Binary%20Search/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
+
+:ballot_box_with_check: [징검다리](https://github.com/LeeWooJung/Programmers/tree/main/Python/Binary%20Search/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC)
