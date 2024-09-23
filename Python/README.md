@@ -2,7 +2,7 @@
 
 ## 2023 현대모비스 알고리즘 기출
 
-:ballot_box_with_check: [2023 현대모비스 알고리즘 경진대회 예선 - 상담원인원](hhttps://github.com/LeeWooJung/Programmers/tree/main/Python/2023%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EC%83%81%EB%8B%B4%EC%9B%90%EC%9D%B8%EC%9B%90)
+:ballot_box_with_check: [2023 현대모비스 알고리즘 경진대회 예선 - 상담원인원](https://github.com/LeeWooJung/Programmers/tree/main/Python/2023%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EC%83%81%EB%8B%B4%EC%9B%90%EC%9D%B8%EC%9B%90)
 
 :ballot_box_with_check: [2023 현대모비스 알고리즘 경진대회 예선 - 에어컨](https://github.com/LeeWooJung/Programmers/tree/main/Python/2023%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EC%97%90%EC%96%B4%EC%BB%A8)
 
