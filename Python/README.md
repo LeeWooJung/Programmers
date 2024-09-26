@@ -16,6 +16,8 @@
 
 :ballot_box_with_check: [충돌위험 찾기](https://github.com/LeeWooJung/Programmers/tree/main/Python/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%B6%A9%EB%8F%8C%EC%9C%84%ED%97%98%20%EC%B0%BE%EA%B8%B0)
 
+:ballot_box_with_check: [수식 복원하기](https://github.com/LeeWooJung/Programmers/tree/main/Python/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%88%98%EC%8B%9D%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
+
 ## Dynamic Programming
 
 :ballot_box_with_check: [N으로 표현](https://github.com/LeeWooJung/Programmers/tree/main/Python/DynamicProgramming/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)
