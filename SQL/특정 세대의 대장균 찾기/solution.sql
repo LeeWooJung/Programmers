@@ -1,3 +1,5 @@
+-- MySQL
+
 select c.ID
 from (
     select parent.ID
