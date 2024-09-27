@@ -1,10 +1,12 @@
 # SQL Solution
 
+## SELECT
+
 :ballot_box_with_check: [3월에 태어난 여성 회원 목록 출력하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/3%EC%9B%94%EC%97%90%20%ED%83%9C%EC%96%B4%EB%82%9C%20%EC%97%AC%EC%84%B1%20%ED%9A%8C%EC%9B%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) : ORACLE
 
 :ballot_box_with_check: [12세 이하인 여자 환자 목록 출력하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/12%EC%84%B8%20%EC%9D%B4%ED%95%98%EC%9D%B8%20%EC%97%AC%EC%9E%90%20%ED%99%98%EC%9E%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) : ORACLE
 
-:ballot_box_with_check: [강원도에 위치한 생산공장 목록 출력하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/12%EC%84%B8%20%EC%9D%B4%ED%95%98%EC%9D%B8%20%EC%97%AC%EC%9E%90%20%ED%99%98%EC%9E%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) : ORACLE
+:ballot_box_with_check: [강원도에 위치한 생산공장 목록 출력하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/%EA%B0%95%EC%9B%90%EB%8F%84%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%9C%20%EC%83%9D%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) : ORACLE
 
 :ballot_box_with_check: [과일로 만든 아이스크림 고르기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/%EA%B3%BC%EC%9D%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A0%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EA%B3%A0%EB%A5%B4%EA%B8%B0) : ORACLE
 
