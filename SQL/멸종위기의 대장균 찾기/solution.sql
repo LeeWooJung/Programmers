@@ -1,3 +1,5 @@
+-- MySQL
+
 WITH RECURSIVE gen AS (
 
     select id, parent_id, 1 as generation
