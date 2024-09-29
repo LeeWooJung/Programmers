@@ -1,6 +1,6 @@
 # Programmers SQL Solutions
 
-:ballot_box_with_check: SELECT
+:ballot_box_with_check: [SELECT](https://github.com/LeeWooJung/Programmers/tree/main/SQL/SELECT)
 
 :black_square_button: SUM, MAX, MIN
 
