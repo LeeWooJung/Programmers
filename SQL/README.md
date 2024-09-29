@@ -2,7 +2,7 @@
 
 :ballot_box_with_check: [SELECT](https://github.com/LeeWooJung/Programmers/tree/main/SQL/SELECT)
 
-:black_square_button: SUM, MAX, MIN
+:ballot_box_with_check: [SUM, MAX, MIN](https://github.com/LeeWooJung/Programmers/tree/main/SQL/SUM%2C%20MAX%2C%20MIN)
 
 :black_square_button: GROUP BY
 
