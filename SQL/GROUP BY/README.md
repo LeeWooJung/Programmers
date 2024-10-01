@@ -14,23 +14,23 @@
 
 :ballot_box_with_check: [자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%EC%A4%91%2C%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
+:ballot_box_with_check: [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%ED%8A%B9%EC%A0%95%20%EC%98%B5%EC%85%98%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 성분으로 구분한 아이스크림 총 주문량
+:ballot_box_with_check: [성분으로 구분한 아이스크림 총 주문량](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EC%B4%9D%20%EC%A3%BC%EB%AC%B8%EB%9F%89) : ORACLE
 
-:black_square_button: 진료과별 총 예약 횟수 출력하기
+:ballot_box_with_check: [진료과별 총 예약 횟수 출력하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%A7%84%EB%A3%8C%EA%B3%BC%EB%B3%84%20%EC%B4%9D%20%EC%98%88%EC%95%BD%20%ED%9A%9F%EC%88%98%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 조건에 맞는 사용자와 총 거래금액 조회하기
+:ballot_box_with_check: [조건에 맞는 사용자와 총 거래금액 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%B4%9D%20%EA%B1%B0%EB%9E%98%EA%B8%88%EC%95%A1%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 고양이와 개는 몇 마리 있을까
+:ballot_box_with_check: [고양이와 개는 몇 마리 있을까](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C) : ORACLE
 
-:black_square_button: 동명 동물 수 찾기
+:ballot_box_with_check: [동명 동물 수 찾기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0) : ORACLE
 
-:black_square_button: 년, 월, 성별 별 상품 구매 회원 수 구하기
+:ballot_box_with_check: [년, 월, 성별 별 상품 구매 회원 수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EB%85%84%2C%20%EC%9B%94%2C%20%EC%84%B1%EB%B3%84%20%EB%B3%84%20%EC%83%81%ED%92%88%20%EA%B5%AC%EB%A7%A4%20%ED%9A%8C%EC%9B%90%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 입양 시각 구하기(1)
+:ballot_box_with_check: [입양 시각 구하기(1)](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1)) : ORACLE
 
-:black_square_button: 입양 시각 구하기(2)
+:ballot_box_with_check: [입양 시각 구하기(2)](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(2)) : ORACLE
 
 :black_square_button: 가격대 별 상품 개수 구하기
 
