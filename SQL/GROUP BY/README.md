@@ -32,13 +32,13 @@
 
 :ballot_box_with_check: [입양 시각 구하기(2)](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(2)) : ORACLE
 
-:black_square_button: 가격대 별 상품 개수 구하기
+:ballot_box_with_check: [가격대 별 상품 개수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EA%B0%80%EA%B2%A9%EB%8C%80%20%EB%B3%84%20%EC%83%81%ED%92%88%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 언어별 개발자 분류하기
+:ballot_box_with_check: [언어별 개발자 분류하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%96%B8%EC%96%B4%EB%B3%84%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 조건에 맞는 사원 정보 조회하기
+:ballot_box_with_check: [조건에 맞는 사원 정보 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9B%90%20%EC%A0%95%EB%B3%B4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기
+:ballot_box_with_check: [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%97%B0%EA%B0%84%20%ED%8F%89%EA%B0%80%EC%A0%90%EC%88%98%EC%97%90%20%ED%95%B4%EB%8B%B9%ED%95%98%EB%8A%94%20%ED%8F%89%EA%B0%80%20%EB%93%B1%EA%B8%89%20%EB%B0%8F%20%EC%84%B1%EA%B3%BC%EA%B8%88%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : MySQL
 
 :black_square_button: 부서별 평균 연봉 조회하기
 
