@@ -40,12 +40,12 @@
 
 :ballot_box_with_check: [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%97%B0%EA%B0%84%20%ED%8F%89%EA%B0%80%EC%A0%90%EC%88%98%EC%97%90%20%ED%95%B4%EB%8B%B9%ED%95%98%EB%8A%94%20%ED%8F%89%EA%B0%80%20%EB%93%B1%EA%B8%89%20%EB%B0%8F%20%EC%84%B1%EA%B3%BC%EA%B8%88%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 부서별 평균 연봉 조회하기
+:ballot_box_with_check: [부서별 평균 연봉 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EB%B6%80%EC%84%9C%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%97%B0%EB%B4%89%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 노선별 평균 역 사이 거리 조회하기
+:ballot_box_with_check: [노선별 평균 역 사이 거리 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EB%85%B8%EC%84%A0%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%97%AD%20%EC%82%AC%EC%9D%B4%20%EA%B1%B0%EB%A6%AC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 물고기 종류 별 잡은 수 구하기
+:ballot_box_with_check: [물고기 종류 별 잡은 수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 월별 잡은 물고기 수 구하기
+:ballot_box_with_check: [월별 잡은 물고기 수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기
+:ballot_box_with_check: [특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY/%ED%8A%B9%EC%A0%95%20%EC%A1%B0%EA%B1%B4%EC%9D%84%20%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%B3%84%20%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0) : MySQL
