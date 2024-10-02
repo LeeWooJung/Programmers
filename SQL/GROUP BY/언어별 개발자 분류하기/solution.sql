@@ -1,0 +1,41 @@
+-- MySQL
+
+WITH FRONT_END AS (
+    SELECT SUM(CODE) AS CODE
+    FROM SKILLCODES
+    WHERE 1 = 1
+    AND CATEGORY = 'Front End'
+), PYTHON AS (
+    SELECT CODE
+    FROM SKILLCODES
+    WHERE 1 = 1
+    AND NAME = 'Python'
+), CSHARP AS (
+    SELECT CODE
+    FROM SKILLCODES
+    WHERE 1 = 1
+    AND NAME = 'C#'
+)
+
+SELECT RESULT.GRADE, RESULT.ID, RESULT.EMAIL
+
+FROM (
+
+    SELECT CASE WHEN (
+                SKILL_CODE & FRONT_END.CODE > 0 AND SKILL_CODE & PYTHON.CODE > 0 
+    ) THEN 'A'
+                WHEN (
+                SKILL_CODE & CSHARP.CODE > 0            
+    ) THEN 'B'
+                WHEN (
+                SKILL_CODE & FRONT_END.CODE > 0
+    ) THEN 'C' END AS GRADE,
+            ID,
+            EMAIL
+    FROM DEVELOPERS, FRONT_END, PYTHON, CSHARP
+
+) RESULT
+
+WHERE 1 = 1
+AND GRADE IS NOT NULL
+ORDER BY 1, 2 ASC;
