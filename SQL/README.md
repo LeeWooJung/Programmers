@@ -6,7 +6,7 @@
 
 :ballot_box_with_check: [GROUP BY](https://github.com/LeeWooJung/Programmers/tree/main/SQL/GROUP%20BY)
 
-:black_square_button: ISNULL
+:ballot_box_with_check: [IS NULL](https://github.com/LeeWooJung/Programmers/tree/main/SQL/IS%20NULL)
 
 :black_square_button: JOIN
 
