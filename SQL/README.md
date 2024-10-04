@@ -10,4 +10,4 @@
 
 :ballot_box_with_check: [JOIN](https://github.com/LeeWooJung/Programmers/tree/main/SQL/JOIN)
 
-:black_square_button: String, Date
+:black_square_button: [String, Date](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE)
