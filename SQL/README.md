@@ -8,6 +8,6 @@
 
 :ballot_box_with_check: [IS NULL](https://github.com/LeeWooJung/Programmers/tree/main/SQL/IS%20NULL)
 
-:black_square_button: [JOIN](https://github.com/LeeWooJung/Programmers/tree/main/SQL/JOIN)
+:ballot_box_with_check: [JOIN](https://github.com/LeeWooJung/Programmers/tree/main/SQL/JOIN)
 
 :black_square_button: String, Date
