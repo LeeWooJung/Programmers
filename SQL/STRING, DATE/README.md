@@ -2,9 +2,9 @@
 
 ## STRING, Date
 
-:black_square_button: 자동차 평균 대여 기간 구하기
+:ballot_box_with_check: [자동차 평균 대여 기간 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%8F%89%EA%B7%A0%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EA%B0%84%20%EA%B5%AC%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
+:ballot_box_with_check: [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/%EC%A1%B0%ED%9A%8C%EC%88%98%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%9D%98%20%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : ORACLE
 
 :black_square_button: 자동차 대여 기록 별 대여 금액 구하기
 
