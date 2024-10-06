@@ -32,10 +32,10 @@
 
 :ballot_box_with_check: [카테고리 별 상품 개수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EC%83%81%ED%92%88%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : ORACLE
 
-:black_square_button: DATETIME에서 DATE로 형 변환
+:ballot_box_with_check: [DATETIME에서 DATE로 형 변환](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%20%EB%B3%80%ED%99%98) : ORACLE
 
-:black_square_button: 연도 별 평균 미세먼지 농도 조회하기
+:ballot_box_with_check: [연도 별 평균 미세먼지 농도 조회하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/%EC%97%B0%EB%8F%84%20%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EB%86%8D%EB%8F%84%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 한 해에 잡은 물고기 수 구하기
+:ballot_box_with_check: [한 해에 잡은 물고기 수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/%ED%95%9C%20%ED%95%B4%EC%97%90%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : MySQL
 
-:black_square_button: 분기별 분화된 대장균의 개체 수 구하기
+:ballot_box_with_check: [분기별 분화된 대장균의 개체 수 구하기](https://github.com/LeeWooJung/Programmers/tree/main/SQL/STRING%2C%20DATE/%EB%B6%84%EA%B8%B0%EB%B3%84%20%EB%B6%84%ED%99%94%EB%90%9C%20%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%EA%B0%9C%EC%B2%B4%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0) : MySQL
