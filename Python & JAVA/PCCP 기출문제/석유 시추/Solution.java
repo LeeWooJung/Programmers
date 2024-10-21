@@ -18,7 +18,6 @@ class Solution {
         int n = land.length;
         int m = land[0].length;
         
-        boolean[][] visit = new boolean[n][m];
         ArrayList<Integer> found = new ArrayList<>();
         ArrayList<Boolean> checked = new ArrayList<>();
         
