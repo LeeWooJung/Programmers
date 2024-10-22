@@ -42,4 +42,8 @@
 
 ## PCCP 기출문제
 
+:ballot_box_with_check: [붕대 감기](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EB%B6%95%EB%8C%80%20%EA%B0%90%EA%B8%B0)
+
 :ballot_box_with_check: [석유 시추](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94)
+
+:ballot_box_with_check: [아날로그 시계](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%20%EC%8B%9C%EA%B3%84)
