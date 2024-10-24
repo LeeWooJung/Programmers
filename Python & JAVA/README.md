@@ -53,3 +53,5 @@
 :ballot_box_with_check: [가장 많이 받은 선물](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EB%B0%9B%EC%9D%80%20%EC%84%A0%EB%AC%BC)
 
 :ballot_box_with_check: [n + 1 카드게임](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/n%20%2B%201%20%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
+
+:ballot_box_with_check: [도넛과 막대 그래프](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/%EB%8F%84%EB%84%9B%EA%B3%BC%20%EB%A7%89%EB%8C%80%20%EA%B7%B8%EB%9E%98%ED%94%84)
