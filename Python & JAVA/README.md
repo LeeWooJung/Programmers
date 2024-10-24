@@ -47,3 +47,9 @@
 :ballot_box_with_check: [석유 시추](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94)
 
 :ballot_box_with_check: [아날로그 시계](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/PCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%20%EC%8B%9C%EA%B3%84)
+
+## 2024 KAKAO WINTER INTERNSHIP
+
+:ballot_box_with_check: [가장 많이 받은 선물](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EB%B0%9B%EC%9D%80%20%EC%84%A0%EB%AC%BC)
+
+:ballot_box_with_check: [n + 1 카드게임](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/n%20%2B%201%20%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
