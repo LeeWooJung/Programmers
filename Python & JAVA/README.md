@@ -57,3 +57,5 @@
 :ballot_box_with_check: [도넛과 막대 그래프](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/%EB%8F%84%EB%84%9B%EA%B3%BC%20%EB%A7%89%EB%8C%80%20%EA%B7%B8%EB%9E%98%ED%94%84)
 
 :ballot_box_with_check: [주사위 고르기](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+
+:ballot_box_with_check: [산 모양 타일링](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2024%20KAKAO%20WINTER%20INTERNSHIP/%EC%82%B0%20%EB%AA%A8%EC%96%91%20%ED%83%80%EC%9D%BC%EB%A7%81)
