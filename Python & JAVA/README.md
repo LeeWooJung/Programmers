@@ -63,3 +63,5 @@
 ## 2023 KAKAO BLIND RECRUITMENT
 
 :ballot_box_with_check: [개인정보 수집 유효기간](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2023%20KAKAO%20BLIND%20RECRUITMENT/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
+
+:ballot_box_with_check: [택배 배달과 수거하기](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2023%20KAKAO%20BLIND%20RECRUITMENT/%ED%83%9D%EB%B0%B0%20%EB%B0%B0%EB%8B%AC%EA%B3%BC%20%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0)
