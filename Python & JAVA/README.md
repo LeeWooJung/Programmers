@@ -69,3 +69,5 @@
 :ballot_box_with_check: [이모티콘 할인 행사](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2023%20KAKAO%20BLIND%20RECRUITMENT/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC)
 
 :ballot_box_with_check: [표현 가능한 이진트리](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2023%20KAKAO%20BLIND%20RECRUITMENT/%ED%91%9C%ED%98%84%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC)
+
+:ballot_box_with_check: [표 병합](https://github.com/LeeWooJung/Programmers/tree/main/Python%20%26%20JAVA/2023%20KAKAO%20BLIND%20RECRUITMENT/%ED%91%9C%20%EB%B3%91%ED%95%A9)
